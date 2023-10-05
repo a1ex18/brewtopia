@@ -2,3 +2,9 @@ html {
   height: 100%;
   width: 100%;
 }
+
+#prod1 {
+  
+  max-width: 100px;
+  max-height: 100px;
+}
